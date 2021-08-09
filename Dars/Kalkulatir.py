@@ -1,0 +1,5 @@
+a = input("Birinchi sonni kiriting: ")
+b = input("Ikkinchi soni kiriting: ")
+d = input ("Uchinchi soni kiriting: ")
+y = int(a) + int(b) - int(d)
+print("Natija:", y)
